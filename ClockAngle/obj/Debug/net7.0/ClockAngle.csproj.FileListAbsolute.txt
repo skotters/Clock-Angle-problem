@@ -1,0 +1,15 @@
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\bin\Debug\net7.0\ClockAngle.exe
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\bin\Debug\net7.0\ClockAngle.deps.json
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\bin\Debug\net7.0\ClockAngle.runtimeconfig.json
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\bin\Debug\net7.0\ClockAngle.dll
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\bin\Debug\net7.0\ClockAngle.pdb
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\obj\Debug\net7.0\ClockAngle.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\obj\Debug\net7.0\ClockAngle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\obj\Debug\net7.0\ClockAngle.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\obj\Debug\net7.0\ClockAngle.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\obj\Debug\net7.0\ClockAngle.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\obj\Debug\net7.0\ClockAngle.dll
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\obj\Debug\net7.0\refint\ClockAngle.dll
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\obj\Debug\net7.0\ClockAngle.pdb
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\obj\Debug\net7.0\ClockAngle.genruntimeconfig.cache
+C:\Users\scott\OneDrive\Desktop\Visual Studio practice\ClockAngle\ClockAngle\obj\Debug\net7.0\ref\ClockAngle.dll
