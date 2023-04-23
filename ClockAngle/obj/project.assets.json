@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scott\\OneDrive\\Desktop\\Visual Studio practice\\ClockAngle\\ClockAngle\\ClockAngle.csproj",
+      "projectUniqueName": "C:\\Users\\scott\\OneDrive\\Desktop\\Visual Studio practice\\ClockAngle\\Clock-Angle-problem\\ClockAngle\\ClockAngle.csproj",
       "projectName": "ClockAngle",
-      "projectPath": "C:\\Users\\scott\\OneDrive\\Desktop\\Visual Studio practice\\ClockAngle\\ClockAngle\\ClockAngle.csproj",
+      "projectPath": "C:\\Users\\scott\\OneDrive\\Desktop\\Visual Studio practice\\ClockAngle\\Clock-Angle-problem\\ClockAngle\\ClockAngle.csproj",
       "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scott\\OneDrive\\Desktop\\Visual Studio practice\\ClockAngle\\ClockAngle\\obj\\",
+      "outputPath": "C:\\Users\\scott\\OneDrive\\Desktop\\Visual Studio practice\\ClockAngle\\Clock-Angle-problem\\ClockAngle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\scott\\AppData\\Roaming\\NuGet\\NuGet.Config",

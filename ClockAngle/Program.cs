@@ -9,17 +9,15 @@
             int secondsEntry;
             
             double fullCircleRotationAngle = 360;
-                       
-
+            
             int secondHandTicsPerRevolution = 60;
             int minuteHandTicsPerRevolution = (int)Math.Pow(secondHandTicsPerRevolution, 2); //60 * 60
             int hourHandTicsPerRevolution = minuteHandTicsPerRevolution * 12; //43200
             int hourHandTicsPerHour = hourHandTicsPerRevolution / 12; //3600
 
+            
 
-            double hold = fullCircleRotationAngle / hourHandTicsPerRevolution;
-
-            double hourHandDegreePerTic = Math.Round(hold, 9);
+            double hourHandDegreePerTic = Math.Round((fullCircleRotationAngle / hourHandTicsPerRevolution), 9);
             //     360 / 43200 = 0.008333333 angle per tic. 
             // note: rounding to four decimals at .0083 affects the angle precision by several degrees.
 
@@ -86,8 +84,5 @@
             else
                 return Math.Abs(360 - (hourPos - minPos));
         }
-
-        
-
     }
 }
